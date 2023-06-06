@@ -19,7 +19,7 @@ function Calculator() {
   return (
     <>
       <div className="section">
-        <h2>Lets Do some Math</h2>
+        <h2>Lets do some math!</h2>
         <div className="calculator">
           <OutputScreen state={current} />
           <div className="keys">
