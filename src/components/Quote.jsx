@@ -30,13 +30,15 @@ function Quote() {
 
   return (
     <>
-      <div className="Quote">
-        <h2>Quote of the day</h2>
-        <p>
-          {data.quote}
-          {' - '}
-          {data.author}
-        </p>
+      <div className="section">
+        <div className="Quote">
+          <h2>Quote of the day</h2>
+          <p>
+            {data.quote}
+            {' - '}
+            {data.author}
+          </p>
+        </div>
       </div>
     </>
   );

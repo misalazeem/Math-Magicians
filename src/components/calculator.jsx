@@ -18,11 +18,14 @@ function Calculator() {
   };
   return (
     <>
-      <div className="calculator">
-        <OutputScreen state={current} />
-        <div className="keys">
-          <OperationKeys clickEvent={clickEvent} />
-          <NumericKeys clickEvent={clickEvent} />
+      <div className="section">
+        <h2>Lets do some math!</h2>
+        <div className="calculator">
+          <OutputScreen state={current} />
+          <div className="keys">
+            <OperationKeys clickEvent={clickEvent} />
+            <NumericKeys clickEvent={clickEvent} />
+          </div>
         </div>
       </div>
     </>
