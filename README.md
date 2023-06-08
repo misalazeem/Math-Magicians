@@ -140,7 +140,7 @@ Example command:
 
 ### Deployment
 
-- Coming Soon
+- <a href="https://math-magicians-nyz8.onrender.com/Calculator">Live Deployment</a>
 
 <!--
 Example:
