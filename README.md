@@ -140,7 +140,7 @@ Example command:
 
 ### Deployment
 
-- <a href="https://math-magicians-nyz8.onrender.com">Live Deployment</a>
+- <a href="https://shimmering-dodol-dd916e.netlify.app/">Live Deployment</a>
 
 <!--
 Example:
